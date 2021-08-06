@@ -48,7 +48,7 @@
 				"#define PRIZE_FIGHTER ios_base::sync_with_stdio(false);cin.tie(NULL);  ",
 				"#define test long long test;cin>>test;while(test--)",
 				"#define rep(n) for(ll i=0;i<n;i++)",
-				"#define rep(a,n) for(ll a=0;a<n;a++)",
+				"#define lop(a,n) for(ll a=0;a<n;a++)",
 				"using namespace std;",
 				"",
 				"",
